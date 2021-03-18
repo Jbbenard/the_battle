@@ -1,0 +1,3 @@
+[submodule "the_battle"]
+	path = the_battle
+	url = git@github.com:Jbbenard/the_battle.git
